@@ -23,6 +23,5 @@ def main():
         print(secure)
 
 
-
 if __name__ == "__main__":
     main()
